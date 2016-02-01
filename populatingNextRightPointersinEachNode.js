@@ -35,9 +35,8 @@ var connect = function(root) {
 var obj = {};
 
 function traverse (rooty, level) {
-    if(rooty === null){
-        return;
-    }
+    if(rooty === null) return;
+
     if(!obj[level]) {
         obj[level] = [rooty];
     }else{
