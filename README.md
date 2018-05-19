@@ -1,2 +1,1 @@
-# Leetcode Solutions in JavaScript by Greg Domorski
-
+# Leetcode Solutions in JavaScript
